@@ -1,0 +1,15 @@
+# Coverage files
+*.gcda
+*.gcno
+*.gcov
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Temp files
+*.tmp
+signing_input.tmp
+
+# Compiled binary
+jwks
